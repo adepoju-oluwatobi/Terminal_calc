@@ -233,7 +233,7 @@ int main()
 
             result = exponential(*num1, *num2);
             printf("-----------------------------------------------");
-            printf("\nThe exponential value of %d raise to power %d is: %f\n", base, exponent, result);
+            printf("\nThe exponential value of %d raise to power %d is: %lf\n", base, exponent, result);
             printf("-----------------------------------------------");
 
             printf("\nWhich operation would you like to perform?: ");

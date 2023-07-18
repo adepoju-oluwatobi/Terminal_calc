@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 #define DEVELOPER "Tobi"
-#define VERSION 1
+#define VERSION 2
 
 double add(double a, double b);
 double subtract(double a, double b);
